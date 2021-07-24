@@ -1,5 +1,9 @@
 # AdventOfCode2020
 
-# Day 1, our goal is to implement the subset sum problem on a given set of integers and output the resulting product.
+# Day 1- Our goal is to implement the subset sum problem on a given set of integers and output the resulting product.
+# Started: 24-Jul-21
+# Finished: 24-Jul-21
+
+# Day 2- Our goal is to sort through an array of strings to find some errors given a rule.
 # Started: 24-Jul-21
 # Finished: 24-Jul-21
