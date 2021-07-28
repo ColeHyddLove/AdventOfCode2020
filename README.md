@@ -8,6 +8,6 @@
 # Started: 24-Jul-21
 # Finished: 24-Jul-21
 
-# Day 3- Our goal is to: given a slope, find the number of trees hit if we sled down the hill.
+# Day 3- Our goal is to: given a slope, find the number of trees hit if we sled down the hill. Challenging once we get to [2,1] for slope.
 # Started: 28-Jul-21
-# Finished: 
+# Finished: 28-Jul-21
