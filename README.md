@@ -12,6 +12,6 @@
 # Started: 28-Jul-21
 # Finished: 28-Jul-21
 
-# Day 4- 
+# Day 4- Our goal is to: Take a messy text file full of information, organize the data into something we can use, then find paragraphs with the information we need.
 # Started: 29-Jul-21
-# Finished: 
+# Finished: 30-Jul-21
