@@ -15,3 +15,7 @@
 # Day 4- Our goal is to: Take a messy text file full of information, organize the data into something we can use, then find paragraphs with the information we need.
 # Started: 29-Jul-21
 # Finished: 30-Jul-21
+
+# Day 5- Our goal is to: Decode a string into a given seat number using two binary search trees. We first must find the largest ID, then find our seat given all other seats.
+# Started: 31-Jul-21
+# Finished: 31-Jul-21
